@@ -1,0 +1,6 @@
+{
+  "name": "SIMU AI",
+  "description": "Intelligent personal assistant with online Gemini, local offline AI, voice input and speech, app launcher, and long-term memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
